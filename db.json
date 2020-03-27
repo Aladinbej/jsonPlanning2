@@ -1,0 +1,20 @@
+
+[{
+	"2020-03-26": [{
+		"matiere": "C#",
+		"professeur": "Anthony Prunck",
+		"heure": "13 Heures"
+	}],
+
+	"2020-03-27": [{
+		"matiere": "C++",
+		"professeur": "Aladin Bejaoui",
+		"heure": "10 Heures"
+	}],
+
+	"2020-03-28": [{
+		"matiere": "JAVA",
+		"professeur": "Marius Marciniak",
+		"heure": "16 Heures"
+	}]
+}]
